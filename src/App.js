@@ -66,7 +66,7 @@ function App() {
   return (
     <div className="App">
       <header>
-      <h1>Tiarnan'S ghfh Todo List</h1>
+      <h1>Todo List</h1>
       </header>
       <Form inputText={inputText} 
       todos={todos} 
